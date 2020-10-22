@@ -3,6 +3,7 @@
 ### Neste projeto serão adicionados os estudos realizados por mim na imersão dados da Alura.
 
 cronograma:
+
 Aula 01 - Dados da Educação
 
 Aula 02 - Análise exploratória
