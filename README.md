@@ -1,4 +1,4 @@
-# analise-dadaos-enem-2019
+# analise-dados-enem-2019
 
 ### Neste projeto serão adicionados os estudos realizados por mim na imersão dados da Alura.
 
